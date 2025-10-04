@@ -235,9 +235,9 @@
         <key>PayloadDisplayName</key>
         <string>TrollScreenTime</string>
         <key>PayloadIdentifier</key>
-        <string>com.jayshen8.trollscreentime</string>
+        <string>me.strinj.remove-screen-time</string>
         <key>PayloadOrganization</key>
-        <string>@jayshen8</string>
+        <string>@strinj</string>
         <key>PayloadRemovalDisallowed</key>
         <false/>
         <key>PayloadType</key>
